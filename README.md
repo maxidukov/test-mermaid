@@ -6,7 +6,7 @@ flowchart LR
     Start --> Stop
 ```
 
-## Simple Graph!!!
+## Simple Graph mermaid
 
 ```mermaid
 flowchart LR
