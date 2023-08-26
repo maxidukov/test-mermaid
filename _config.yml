@@ -1,3 +1,7 @@
+---
+mermaid: true
+---
+
 theme: jekyll-theme-leap-day
 
 plugins:
