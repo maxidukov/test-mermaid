@@ -1,3 +1,7 @@
+---
+mermaid: true
+---
+
 # test-mermaid
 Test mermaid
 
